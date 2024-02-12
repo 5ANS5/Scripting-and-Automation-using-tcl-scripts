@@ -1,0 +1,4 @@
+,top_alu8bit,top_knowels_32bit,top_koggestone_32bit,top_lander_fisher_32bit,top_master_slave,top_mealy,top_moore,top_ripple4bit
+Power,11.055,25.791,25.741,23.749,0.639,0.122,0.529,0.122
+Delay,13.83,18.331,18.177,17.48,4.767,4.813,,
+LUTs,131.0,133.0,131.0,73.0,1.0,0.0,5.0,0.0
